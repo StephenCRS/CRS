@@ -1,0 +1,10 @@
+This is a placeholder file.
+
+To add your logo to the website:
+1. Upload your logo file (preferably in PNG format with transparent background)
+2. Name it "logo.png" for the colored header version
+3. Name it "logo-white.png" for the white footer version
+4. Replace the placeholder logo in the Header.tsx and Footer.tsx components
+5. Uncomment the Image component in both files
+
+For best results, make sure your logo files are high resolution with proper transparency.
